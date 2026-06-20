@@ -1,7 +1,7 @@
 {
-  "name": "BoltHero",
+  "name": "XenonXd",
   "bot-account": {
-    "username": "BoltHero",
+    "username": "XenonXd",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "bolt0000"
+      "password": "xenon0000"
     },
     "anti-afk": {
       "enabled": true,
